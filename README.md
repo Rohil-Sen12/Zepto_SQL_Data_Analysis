@@ -20,22 +20,39 @@ The dataset includes the following fields:
 
 🎯 Objectives
 1. Data Cleaning & Preparation
+
 •	Handle duplicate entries and missing values
+
 •	Remove out-of-stock or invalid records
+
 •	Standardize product categories for consistency
-2. Exploratory Data Analysis (EDA)
+
+4. Exploratory Data Analysis (EDA)
+
 •	Identify top-selling products and categories
+
 •	Compare discount patterns across categories
+
 •	Analyze stock availability and inventory trends
-3. SQL Queries & Insights
+
+6. SQL Queries & Insights
+
 •	Write queries using filtering, grouping, and aggregation
+
 •	Perform joins and set operations for deeper insights
+
 •	Calculate KPIs such as:
+
 •	Average discount
+
 •	Stock turnover
+
 •	Category-wise revenue contribution
-4. Business Use Cases
+
+8. Business Use Cases
+
 •	Optimize pricing strategies using discount analysis
+
 •	Improve inventory management by tracking out-of-stock items
 
 
