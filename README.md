@@ -81,11 +81,7 @@ s
 
 •	Pricing strategy plays a crucial role in customer engagement
 
-🛠️ Tools & Technologies
 
-•	Data Cleaning & Transformation
-
-•	Data Analysis & Query Optimization
 
 
 🔗 Connect with me on LinkedIn 👉https://www.linkedin.com/in/rohil-sen-813702392/
