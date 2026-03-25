@@ -7,11 +7,17 @@ This project focuses on analyzing retail grocery and cooking essentials data usi
 The dataset includes the following fields:
 
 •	Category (e.g., Fruits & Vegetables, Cooking Essentials)
+
 •	Product Name
+
 •	MRP (Maximum Retail Price)
+
 •	Discount Percentage & Selling Price
+
 •	Available Quantity & Stock Status
+
 •	Weight (in grams)
+
 🎯 Objectives
 1. Data Cleaning & Preparation
 •	Handle duplicate entries and missing values
