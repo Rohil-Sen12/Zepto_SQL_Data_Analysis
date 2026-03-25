@@ -48,7 +48,6 @@ The dataset includes the following fields:
 •	Stock availability directly impacts sales performance
 •	Pricing strategy plays a crucial role in customer engagement
 🛠️ Tools & Technologies
-SQL (PostgreSQL )
 •	Data Cleaning & Transformation
 •	Data Analysis & Query Optimization
 🚀 Conclusion
