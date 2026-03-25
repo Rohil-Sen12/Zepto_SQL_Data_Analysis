@@ -56,7 +56,7 @@ The dataset includes the following fields:
 •	Improve inventory management by tracking out-of-stock items
 
 
-🔍 Data Exploration
+5.🔍 Data Exploration
 
 •	Counted the total number of records in the dataset
 
@@ -71,7 +71,7 @@ The dataset includes the following fields:
 •	Detected duplicate products (multiple SKUs for same item)
 
 
-5.📌 Key Insights
+6.📌 Key Insights
 
 •	Categories with the highest discounts attract more purchases
 
