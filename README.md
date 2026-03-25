@@ -58,6 +58,12 @@ The dataset includes the following fields:
 •	Data Cleaning & Transformation
 •	Data Analysis & Query Optimization
 
+
+🔗 Connect with me on LinkedIn 👉https://www.linkedin.com/in/rohil-sen-813702392/
+
+👨‍💻 Author
+Rohil Sen
+
 🚀 Conclusion
 This project demonstrates how SQL can be effectively used for data cleaning, exploration, and generating business insights. It helps in making data-driven decisions related to pricing, inventory, and category performance.
 
