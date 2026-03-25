@@ -31,25 +31,33 @@ The dataset includes the following fields:
 4. Business Use Cases
 •	Optimize pricing strategies using discount analysis
 •	Improve inventory management by tracking out-of-stock items
+
+
 🔍 Data Exploration
+
 •	Counted the total number of records in the dataset
 •	Viewed sample data to understand structure and columns
 •	Checked for null values across all columns
 •	Identified distinct product categories
 •	Compared in-stock vs out-of-stock product counts
 •	Detected duplicate products (multiple SKUs for same item)
+
 🧹 Data Cleaning
+
 •	Removed rows where MRP or discounted selling price = 0
 •	Converted price fields from paise to rupees for better readability
 •	Ensured consistent data types and standardized formats
 📌 Key Insights
+
 •	Categories with the highest discounts attract more purchases
 •	Some products appear multiple times due to SKU variations
 •	Stock availability directly impacts sales performance
 •	Pricing strategy plays a crucial role in customer engagement
 🛠️ Tools & Technologies
+
 •	Data Cleaning & Transformation
 •	Data Analysis & Query Optimization
+
 🚀 Conclusion
 This project demonstrates how SQL can be effectively used for data cleaning, exploration, and generating business insights. It helps in making data-driven decisions related to pricing, inventory, and category performance.
 
