@@ -27,7 +27,7 @@ The dataset includes the following fields:
 
 •	Standardize product categories for consistency
 
-4. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
 •	Identify top-selling products and categories
 
@@ -35,7 +35,7 @@ The dataset includes the following fields:
 
 •	Analyze stock availability and inventory trends
 
-6. SQL Queries & Insights
+3. SQL Queries & Insights
 
 •	Write queries using filtering, grouping, and aggregation
 
@@ -49,7 +49,7 @@ The dataset includes the following fields:
 
 •	Category-wise revenue contribution
 
-8. Business Use Cases
+4. Business Use Cases
 
 •	Optimize pricing strategies using discount analysis
 
@@ -70,8 +70,8 @@ The dataset includes the following fields:
 
 •	Detected duplicate products (multiple SKUs for same item)
 
-s
-📌 Key Insights
+
+5.📌 Key Insights
 
 •	Categories with the highest discounts attract more purchases
 
